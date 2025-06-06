@@ -1,0 +1,17 @@
+*.class
+*.log
+*.tmp
+
+# Carpetas de compilación
+build/
+dist/
+target/
+
+# Archivos de configuración del IDE
+nbproject/private/
+*.iml
+.idea/
+
+# Base de datos local
+db/*
+!db/.gitkeep
