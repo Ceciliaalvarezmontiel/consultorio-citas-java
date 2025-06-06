@@ -1,5 +1,7 @@
 Consultorio citas clase java
 
+##El archivo ConsultorioCitas.zip contiene todo el código fuente del proyecto. Para revisarlo, debe descargarse y descomprimirse en una carpeta local.##
+
 Descripción general:
 - Este programa simula un sistema básico de administración de citas médicas en una clínica. Permite dar de alta doctores, pacientes, crear citas con fecha y hora, y relacionarlas entre sí. También cuenta con control de acceso mediante un sistema de administrador.
 - Instalación y configuración:
